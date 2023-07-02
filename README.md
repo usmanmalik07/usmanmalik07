@@ -2,10 +2,10 @@
 <h3 align="center">A self proclaimed debugger</h3>
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
+- 🔭 I’m currently working on **finding the right thing for me**
+- 🔭 I’m going to work  on **developing, refining and optimizing AI-generated text prompts to ensure they are accurate, engaging and relevant for various applications.**
 
-- 🔭 I’m currently working on **developing, refining and optimizing AI-generated text prompts to ensure they are accurate, engaging and relevant for various applications.**
-
-- 🌱 I’m currently learning **prompt engineering**
+- 🌱 I’m planning to learn **prompt engineering**
 
 - 👯 I’m looking to collaborate on **One Shot Prompting , Role Prompting , Chain Of Thought Prompting**
 
