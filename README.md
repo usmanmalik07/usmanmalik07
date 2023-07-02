@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **c++ java python(modules)**
 
-- 📫 How to reach me **usmanmalik.dev@gmail.com**
+- 📫 Reach me at  **usmanmalik.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
