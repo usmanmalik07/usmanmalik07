@@ -2,6 +2,7 @@
 <h3 align="center">Crafting digital solutions through lines of code.</h3>
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
+![giphy](https://github.com/usmanmalik07/Flappy-Bird-Raptor/assets/119419548/00a1ff29-d096-467d-953c-4c1452266677)
 
 - 🔭 I’m currently working on **E-commerce Website**
 
