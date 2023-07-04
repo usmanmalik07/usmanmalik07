@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Malik</h1>
 <h3 align="center">Crafting digital solutions through lines of code.</h3>
 
+
+<img allign= "right" alt = "coding" width = 400 src = "https://media2.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e476szrogfty87q2zr1hn29oujr6whznb270u5vkfob&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
 
 
