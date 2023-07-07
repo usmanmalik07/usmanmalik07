@@ -3,7 +3,7 @@
 
 
 <div id="header" align ="center">
-  <img src="https://media2.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e476szrogfty87q2zr1hn29oujr6whznb270u5vkfob&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="40%" width="40%">
+  <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height="40%" width="40%">
 </div>
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
