@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **web development using html css**
+- 🌱 I’m currently learning **web development using html css and javascript**
 
 - 👯 I’m looking to collaborate on **web development**
 
