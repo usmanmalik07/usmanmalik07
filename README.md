@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
 
-- 🔭 I’m currently working on [BookKar Rent A Car mobile application](https://github.com/usmanmalik07/BookKar-Rent-A-Car)
+- 🔭 I’m currently working on [BookKar Rent A Car mobile application](https://github.com/usmanmalik07/BookKar)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
