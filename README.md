@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
 
-- 🔭 I’m currently working on [Lejao Ecommerce Website](https://github.com/usmanmalik07/Lejao-Ecommerce-Website)
+- 🔭 I’m currently working on [BookKar Rent A Car mobile application](https://github.com/usmanmalik07/BookKar-Rent-A-Car)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to collaborate on [Anime Streaming Website](https://github.com/usmanmalik07/anime-streaming-website)
 
-- 🤝 I’m looking for help with [Ecommerce Store](https://github.com/usmanmalik07/Lejao-Ecommerce-Website)
+- 🤝 I’m looking for help with [Lejao Ecommerce Store](https://github.com/usmanmalik07/Lejao-Ecommerce-Website)
 
 - 💬 Ask me about **html,css,js,mysql,laravel,python,java,c++**
 
