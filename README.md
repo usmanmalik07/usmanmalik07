@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with [Lejao Ecommerce Store](https://github.com/usmanmalik07/Lejao-Ecommerce-Website)
 
-- 💬 Ask me about **html,css,js,mysql,laravel,python,java,c++,React,Javascript**
+- 💬 Ask me about *python,java,c++,React,Javascript,mysql,laravel,firebase**
 
 - 📫 How to reach me **usmanmalik.dev@gmail.com**
 
