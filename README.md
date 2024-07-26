@@ -30,7 +30,7 @@
 - Machine Learning : Python (TensorFlow, PyTorch, scikit-learn, Keras, NumPy, pandas, Matplotlib).
 - Continuous Integration / Continuous Devlopment : Github Actions
 - Database: MySQL, Oracle, SQLSERVER, MongoDB , Firebase
-- Tools: GitHub, VS Code, VisualStudio, Adobe Photoshop
+- Tools: GitHub, VS Code, VisualStudio, Adobe Photoshop, Jupyter Notebook , Google Colab
 
 
 ---
