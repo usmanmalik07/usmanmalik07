@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/malikkcs" target="blank"><img src="https://img.shields.io/twitter/follow/malikkcs?logo=twitter&style=for-the-badge" alt="malikkcs" /></a> </p>
 
-- 🔭 I’m currently working on [ClassEase School Management System](https://github.com/usmanmalik07/ClassEase-School-Management-System-)
+- 🔭 I’m currently working on [Aqua-Job Filter Chatbot](https://github.com/usmanmalik07/Aqua-Chatbot)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Anime Streaming Website](https://github.com/usmanmalik07/anime-streaming-website)
+- 👯 I’m looking to collaborate on [Aqua-Job Filter Chatbot](https://github.com/usmanmalik07/Aqua-Chatbot)
 
 - 📫 Contact me **usmanmalik.dev@gmail.com**
 
