@@ -24,12 +24,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usmanmalik.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-malik-827147245)
 
 # 💻 Tech Stack:
-- Programming languages: Python, C++, Java, Javascript
-- Web development: React.js, Nodejs, Expressjs, PHP , Laravel
+- Programming languages: Python, C++, Java, JavaScript
+- Web development: React.js, Node.js, Express.js, PHP , Laravel
 - Mobile development : React Native
 - Machine Learning : Python (TensorFlow, PyTorch, scikit-learn, Keras, NumPy, pandas, Matplotlib).
 - Continuous Integration / Continuous Devlopment : Github Actions
-- Database: MySQL, Oracle, SQLSERVER, MongoDB , Firebase
+- Database: MySQL, Oracle, SQL SERVER, MongoDB , Firebase
 - Tools: GitHub, VS Code, VisualStudio, Adobe Photoshop, Jupyter Notebook , Google Colab , XAMPP
 
 ---
