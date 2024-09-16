@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Aqua-Job Filter Chatbot](https://github.com/usmanmalik07/Aqua-Chatbot)
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**.
 
 - 👯 I’m looking to collaborate on [Aqua-Job Filter Chatbot](https://github.com/usmanmalik07/Aqua-Chatbot)
 
