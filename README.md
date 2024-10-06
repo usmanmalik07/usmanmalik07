@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**.
 
-- 👯 I’m looking to collaborate on [Aqua-Job Filter Chatbot](https://github.com/usmanmalik07/Aqua-Chatbot)
+- 👯 I’m looking to collaborate on [Mihawk - Final Year Project](https://github.com/usmanmalik07/Mihawk-Drone-Surveillance-System)
 
 - 📫 Contact me **usmanmalik.dev@gmail.com**
 
