@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Malik</h1>
-<h3 align="center">Crafting digital solutions through lines of code.</h3>
+<h3 align="center">Crafting digital solutions through lines of code</h3>
 
 
 <div id="header" align ="center">
