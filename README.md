@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Malik</h1>
-<h3 align="center">Crafting digital solutions through lines of code</h3>
+<h3 align="center">Crafting digital solutions through lines of code.</h3>
 
 
 <div id="header" align ="center">
@@ -31,7 +31,6 @@
 - Continuous Integration / Continuous Devlopment : Github Actions
 - Database: MySQL, Oracle, SQL SERVER, MongoDB , Firebase
 - Tools: GitHub, VS Code, VisualStudio, Adobe Photoshop, Jupyter Notebook , Google Colab , XAMPP
-
 ---
 [![](https://visitcount.itsvg.in/api?id=usmanmalik07&icon=0&color=0)](https://visitcount.itsvg.in)
 
