@@ -27,8 +27,8 @@
 - **Programming languages**: Python, C++, Java, JavaScript
 - **Web development**: React.js, Node.js, Express.js, PHP , Laravel
 - **Mobile development** : React Native
-- **Machine Learning** : Python (TensorFlow, PyTorch, scikit-learn, Keras, NumPy, pandas, Matplotlib).
-- **Continuous Integration / Continuous Devlopment** : Github Actions.
+- **Machine Learning** : Python (TensorFlow, PyTorch, Keras).
+- **CI/CD** : Github Actions.
 - **Database**: MySQL, Oracle, SQL SERVER, MongoDB , Firebase.
 - **Tools**: GitHub, VS Code, VisualStudio, Adobe Photoshop, Jupyter Notebook , Google Colab , XAMPP.
 ---
