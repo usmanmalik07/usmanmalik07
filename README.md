@@ -22,16 +22,18 @@
 
 
 
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanmalik07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanmalik07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanmalik07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -63,7 +65,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@malikk2002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -80,9 +82,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4NHgwM3BwbnZjeXczcnlyeXJnenpjbGFlYXFuaGN1Z3pnOWNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv1feQkIAMGnZh6/giphy.webp"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/usmanmalik07/usmanmalik07/output/snake.svg" alt="Snake animation" />
 
@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31fggy5wfn323ef3biynpp3ekuu4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fggy5wfn323ef3biynpp3ekuu4&count=10&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fggy5wfn323ef3biynpp3ekuu4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
