@@ -61,9 +61,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4NHgwM3BwbnZjeXczcnlyeXJnenpjbGFlYXFuaGN1Z3pnOWNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv1feQkIAMGnZh6/giphy.webp"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.youtube.com/@malikk2002" target="_blank">
@@ -82,7 +80,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw4NHgwM3BwbnZjeXczcnlyeXJnenpjbGFlYXFuaGN1Z3pnOWNnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv1feQkIAMGnZh6/giphy.webp"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/usmanmalik07/usmanmalik07/output/snake.svg" alt="Snake animation" />
 
@@ -95,4 +95,3 @@
 </div>
 
 ###
-
