@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Mihawk - Final Year Project](https://github.com/usmanmalik07/Mihawk-Drone-Surveillance-System).
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**.
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
   
 - 👯 I’m looking to collaborate on [Mihawk - Final Year Project](https://github.com/usmanmalik07/Mihawk-Drone-Surveillance-System)
 
